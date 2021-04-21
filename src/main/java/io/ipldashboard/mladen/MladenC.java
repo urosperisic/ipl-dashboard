@@ -8,6 +8,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class MladenC {
     @RequestMapping("")
     public String hello() {
-        return "zdravo Mladene!!!   " + "\na Uros nema pojma!!!";
+        return "zdravo Mladene!!!   " + "\nhello";
     }
 }

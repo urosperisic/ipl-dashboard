@@ -3,6 +3,7 @@ package io.ipldashboard.model;
 import javax.persistence.Entity;
 import javax.persistence.Id;
 import java.time.LocalDate;
+import java.util.Objects;
 
 @Entity
 public class Match {
@@ -133,4 +134,6 @@ public class Match {
     public void setUmpire2(String umpire2) {
         this.umpire2 = umpire2;
     }
+
+
 }
