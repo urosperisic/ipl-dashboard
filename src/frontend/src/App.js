@@ -6,7 +6,7 @@ function App() {
     return (
         <div className="App">
             <Router>
-                <Route path="/teams">
+                <Route path="/teams/:teamName">
                     <TeamPage/>
                 </Route>
             </Router>
