@@ -3457,13 +3457,10 @@
   dependencies:
     "delayed-stream" "~1.0.0"
 
-"command@^0.0.5":
-  "integrity" "sha1-ovmGpzaOJN4jdLSjkFQdLUjn7Lo="
-  "resolved" "https://registry.npmjs.org/command/-/command-0.0.5.tgz"
-  "version" "0.0.5"
-  dependencies:
-    "merge-recursive" "0.0.3"
-    "which" "1.0.5"
+"command@^0.0.1":
+  "integrity" "sha1-nXLk7Z464dk0LNvOo4TyVfNhsZ8="
+  "resolved" "https://registry.npmjs.org/command/-/command-0.0.1.tgz"
+  "version" "0.0.1"
 
 "commander@^2.20.0":
   "integrity" "sha512-GpVkmM8vF2vQUkj2LvZmD35JxeJOLCwJ9cUkugyk2nuhbv3+mJvpLYYt+0+USMxE+oj+ey/lJEnhZw75x/OMcQ=="
@@ -7439,11 +7436,6 @@
   "resolved" "https://registry.npmjs.org/merge-descriptors/-/merge-descriptors-1.0.1.tgz"
   "version" "1.0.1"
 
-"merge-recursive@0.0.3":
-  "integrity" "sha1-3nkB78rsyQbYyrKtHpxHD1o9roQ="
-  "resolved" "https://registry.npmjs.org/merge-recursive/-/merge-recursive-0.0.3.tgz"
-  "version" "0.0.3"
-
 "merge-stream@^2.0.0":
   "integrity" "sha512-abv/qOcuPfk3URPfDzmZU1LKmuw8kT+0nIHvKrKgFrwifol/doWcdA4ZqsWQ8ENrFKkd67Mfpo/LovbIUsbt3w=="
   "resolved" "https://registry.npmjs.org/merge-stream/-/merge-stream-2.0.0.tgz"
@@ -7511,7 +7503,7 @@
   dependencies:
     "mime-db" "1.47.0"
 
-"mime@^2.4.4":
+"mime@^2.4.4", "mime@^2.5.2":
   "integrity" "sha512-tqkh47FzKeCPD2PUiPB6pkbMzsCasjxAfC62/Wap5qrUWcb+sFasXUC5I3gYM5iBM8v/Qpn4UK0x+j0iHyFPDg=="
   "resolved" "https://registry.npmjs.org/mime/-/mime-2.5.2.tgz"
   "version" "2.5.2"
@@ -12020,11 +12012,6 @@
   "version" "2.0.2"
   dependencies:
     "isexe" "^2.0.0"
-
-"which@1.0.5":
-  "integrity" "sha1-VjDWgZ3aaS8UZEYueVbLQsCEJzk="
-  "resolved" "https://registry.npmjs.org/which/-/which-1.0.5.tgz"
-  "version" "1.0.5"
 
 "wide-align@^1.1.0":
   "integrity" "sha512-QGkOQc8XL6Bt5PwnsExKBPuMKBxnGxWWW3fU55Xt4feHozMUhdUMaBCk290qpm/wG5u/RSKzwdAC4i51YigihA=="
